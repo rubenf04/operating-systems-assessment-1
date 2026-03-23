@@ -48,6 +48,11 @@ Navigate to the required task folder:
 * cd task1
   
 Run the script using the appropriate command below:
+
+to back out of a sub-folder use:
+```
+cd ..
+```
    
 ## How to Run the scripts: 
 
