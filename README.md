@@ -82,3 +82,15 @@ chmod +x task_2.py
 * Generated files are stored within the same directory as their respective scripts for easy management and access to files .
 * Log files are not displayed within the program menus but can be accessed directly from the script folders.
 
+## Viewing Generated Files
+
+You can view and access all the files once created by the scripts using the terminal or just simply as they pop up within folder on VS code (however can be laggy and not pop up straight away in VS even if they have been created):
+
+- List files in the current directory:
+```bash
+ls
+```
+Open and view a text file:
+```
+cat filename.txt
+```
