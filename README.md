@@ -76,6 +76,53 @@ OR
 ```
 chmod +x task_2.py
 ```
+### specific commands for every task once inside the extracted folder
+
+for task 1:
+```
+cd task1
+```
+then
+```
+bash task_1.sh 
+```
+OR
+```
+chmod +x task_1.sh
+```
+for task 2:
+```
+cd task2
+```
+then
+```
+python3 task_2.py 
+```
+OR
+```
+chmod +x task_2.py
+```
+for task 3:
+```
+cd task3
+```
+then
+```
+bash task_3.sh 
+```
+OR
+```
+chmod +x task_3.sh
+```
+AND
+```
+python3 task_3.py
+```
+OR
+```
+chmod +x task_3.py
+```
+
 ## File creation and Behaviour
 * All scripts automatically create any required files (e.g., logs, data files, directories) during execution.
 * No manual setup or pre-existing files are required before running the programs.
